@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header{
+    background-color: rgba(174, 249, 253, 0.685) ;
+    padding: 15px;
+    color: navy ;
+}
+
+
+h1{
+    background-color: aqua;
+    color: rgb(106, 106, 255);
+    text-align:center ;
+}
+
+.olgo{
+    background-color: rgb(0, 231, 69);
+    padding: 10px;
+}
+
+.as{
+    background-color: rgb(0, 255, 76);
+    padding: 15px;
+}
+
+.f {
+    color: blue;
+}
+
+.ff {
+    border: 1px solid blue;
+    border-radius: 10px;
+}
